@@ -27,4 +27,4 @@ you need to open and install the apk file and then you can play this game
 <br>
 And about the source code if you are downloading the web version the source code is there.
 <br>
-But about the electron version you need to download the source code
+But about the electron version or android version you need to download the source code
