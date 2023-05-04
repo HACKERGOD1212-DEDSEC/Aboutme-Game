@@ -13,7 +13,13 @@ This version can opened in every device cause its web version you only need to o
 <br>
 -The electron version (coming soon)
 <br>
-This version its only for windows and you only need to open the Aboutme.exe file.
+This version is only for windows and you only need to open the Aboutme.exe file.
+<br>
+-The android version
+<br>
+This version is only for android.
+<br>
+you need to open and install the apk file and then you can play this game
 <br>
 -It's an open-source game.
 <br>
